@@ -1,0 +1,6 @@
+#include <cs50.h>
+#include <stdio.h>
+
+// make <programtitle> converts it to object code
+// ./<programname>
+
